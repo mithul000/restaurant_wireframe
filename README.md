@@ -4,7 +4,7 @@ Simple restaurant website prototype created for the UI/UX wireframing task.
 
 ## Figma Prototype
 
-[Open the Figma prototype](https://www.figma.com/proto/ckGi0O0ndt2404mLW76iuS/Luna-Bistro-Restaurant-Prototype?node-id=0-1&t=wwFOA8a0S3ev8DZz-1)
+[Open the Figma prototype](https://www.figma.com/proto/ckGi0O0ndt2404mLW76iuS/Luna-Bistro-Restaurant-Prototype?node-id=1-4&p=f&t=bJx76AW4kuQNreu4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
 
 The Figma file contains a clickable mobile restaurant website prototype with four screens:
 
